@@ -1,0 +1,2 @@
+# netbox-script
+installlations file
